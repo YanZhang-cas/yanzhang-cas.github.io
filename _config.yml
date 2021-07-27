@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing"
-title                    : "Yan Zhang (张岩)"
+title                    : "Yan Zhang"
 title_separator          : "-"
 name                     : &name "Yan Zhang"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yan Zhang (张岩)"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : ""
   location         : "Beijing, China"
   employer         :
