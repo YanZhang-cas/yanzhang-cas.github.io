@@ -11,7 +11,7 @@ title                    : "Yan Zhang (张岩)"
 title_separator          : "-"
 name                     : &name "Yan Zhang"
 description              : &description "personal description"
-url                      : https://yanzhang-cas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yanzhang-cas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ author:
   bio              : ""
   location         : "Beijing, China"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=UHHTSz0AAAAJ&hl=zh-CN"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yan-Zhang-535"
